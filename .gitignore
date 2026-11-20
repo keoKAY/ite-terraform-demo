@@ -1,0 +1,10 @@
+credentials
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+*.tfplan
+
+# Secrets / credentials
+*.json
